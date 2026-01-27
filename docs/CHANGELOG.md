@@ -1,5 +1,28 @@
 # Changelog
 
+## [1.23.2](https://github.com/tambo-ai/tambo/compare/docs-v1.23.1...docs-v1.23.2) (2026-01-27)
+
+
+### Miscellaneous Chores
+
+* **deps:** bump framer-motion from 12.23.26 to 12.29.0 ([#1936](https://github.com/tambo-ai/tambo/issues/1936)) ([59fca7a](https://github.com/tambo-ai/tambo/commit/59fca7ad50454e6a2845de0dec5a782c8be65b3e))
+* **deps:** bump the small-safe-packages group with 10 updates ([#1932](https://github.com/tambo-ai/tambo/issues/1932)) ([66f8ee8](https://github.com/tambo-ai/tambo/commit/66f8ee83adbcdb8c64d5c85159bc6574d4166f7b))
+* **docs:** Organize reference section ([#1916](https://github.com/tambo-ai/tambo/issues/1916)) ([46154a5](https://github.com/tambo-ai/tambo/commit/46154a5fd22525f9d6dc601119d09c8f8909d841))
+
+
+### Documentation
+
+* **react-sdk:** remove dependency on zod ([#1850](https://github.com/tambo-ai/tambo/issues/1850)) ([18dcc3a](https://github.com/tambo-ai/tambo/commit/18dcc3af02e147c2259f7e9dfd0aee800c03d97a))
+* validate Groq Llama-3.1-8B ([#1892](https://github.com/tambo-ai/tambo/issues/1892)) ([792cda5](https://github.com/tambo-ai/tambo/commit/792cda59ea90e0a8da54ef83c8caf0a2b1e46f7d))
+* validate OpenAI gpt-4.1-nano-2025-04-14 ([#1838](https://github.com/tambo-ai/tambo/issues/1838)) ([7d13271](https://github.com/tambo-ai/tambo/commit/7d13271ffca728ee862a446eaaa4c600896e3e2f))
+
+
+### Dependencies
+
+* The following workspace dependencies were updated
+  * dependencies
+    * @tambo-ai/react bumped from * to 0.71.0
+
 ## [1.23.1](https://github.com/tambo-ai/tambo/compare/docs-v1.23.0...docs-v1.23.1) (2026-01-22)
 
 
