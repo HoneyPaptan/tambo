@@ -1,5 +1,19 @@
 # Changelog
 
+## [0.50.0](https://github.com/tambo-ai/tambo/compare/tambo-v0.49.0...tambo-v0.50.0) (2026-01-27)
+
+
+### Features
+
+* **cli:** add non-interactive mode support (Phase 1) ([#1943](https://github.com/tambo-ai/tambo/issues/1943)) ([47548d0](https://github.com/tambo-ai/tambo/commit/47548d02e2cb1429232d12bb93eaee60b6f7b17e))
+
+
+### Dependencies
+
+* The following workspace dependencies were updated
+  * dependencies
+    * @tambo-ai/react bumped from * to 0.71.0
+
 ## [0.49.0](https://github.com/tambo-ai/tambo/compare/tambo-v0.48.0...tambo-v0.49.0) (2026-01-27)
 
 
